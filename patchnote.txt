@@ -1,1 +1,22 @@
 
+[Version 0.0.4]
+New modern redesigned Launcher interface beta test
+[Version 0.0.3]
+*-fast easy mode for Color name
+*-easy mode for make Frames
+*-easy mode for avatar
+*-easy mode for skin editor
+*Hunter Origin ‼️
+*-Easy mode for master data
+*-Easy mode edit materials
+*-Easy edit hunter data
+*-Easy mode for edit inventory
+
+[Version 0.0.2]
+* Added support for Hunter Origin & Big Helmet
+* Implemented Dungeon Items and Schema editors
+* Added consolidated chunks management
+* Bug fixes and performance optimizations
+
+[Version 0.0.1]
+* Initial release of alfa HR-Tool Save Editor
